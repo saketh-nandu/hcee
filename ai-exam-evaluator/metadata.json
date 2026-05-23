@@ -1,0 +1,6 @@
+{
+  "name": "AI Exam Evaluator",
+  "description": "Autonomous AI Evaluation and OCR platform for handwritten answer sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
